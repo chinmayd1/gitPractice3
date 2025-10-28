@@ -2,3 +2,4 @@
 //git branch branchName
 //git branch dayFour
 //git checkout dayFour
+//git branch -d dayFour
